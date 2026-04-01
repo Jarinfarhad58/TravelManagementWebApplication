@@ -1,6 +1,0 @@
-@TravelManagementWebApplication_HostAddress = http://localhost:5137
-
-GET {{TravelManagementWebApplication_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
